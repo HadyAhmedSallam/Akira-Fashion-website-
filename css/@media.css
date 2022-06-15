@@ -1,0 +1,91 @@
+/* for SM */
+@media(max-width:768px){
+    .lastCard_1{
+        margin-left: -18px;
+        padding-bottom: 40px !important;
+    }
+    .padd_inFooter{
+        padding: 0 !important;
+        margin: auto;
+    }
+    .owl_P{
+        margin-left: 30px;
+    }
+    .BESTSELLER_P{
+        padding-top: 60px;
+    }    
+    .pic_123{
+        margin-top: 50px;
+    }
+    .immmmmg{
+        max-width: 100%;
+    }
+    .spaceLasticonsm{
+        margin-top: -20px;
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+        padding-left: 150px;
+        padding-bottom: 20px;
+    }
+    .secs_sm{
+        padding-top: 20px;
+    }
+    .pic1-just-sm{
+        padding-bottom: 50px;
+    }
+    .sliderForSm{
+        height: 10px !important;
+    }
+}
+/* for MD */
+@media (min-width: 768px) and (max-width: 922px){
+    .tabForMD{
+        height: 30vh !important;
+    }
+    .pic1-1ForMD{
+        width: 100% !important;
+    }
+    .pic-1-UP{
+        margin-top: -100px;
+    }
+    .BESTSELLER_MD{
+        padding-top: 30px;
+    }
+    .pic_2_MD-center{
+        margin-top: 25px;
+    }
+    .owl-DM-1-2{
+        margin-left: 25px;
+    }
+    .fixed-cent-img{
+        margin-top: 120px;
+    }
+    .last-icon-MD-1{
+        margin-left: -60px;
+    }
+    .last-icon-MD-4{
+        margin-right: -100px;
+    }
+    .header_img_MD{
+        padding: 15px;
+    }
+    .btn_header_MD{
+        padding: 10px;
+    }
+    .icon_header_MD{
+        margin-right: 35px;
+        padding-top: 7px;
+    }
+}
+@media (min-width: 922px){
+    .header_img_LG{
+        padding: 15px;
+    }
+    .header_links_LG{
+        margin-top: -10px;
+    }
+    .header_licons_LG{
+        padding: 10px;
+    }
+}
